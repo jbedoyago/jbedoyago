@@ -15,36 +15,35 @@ Actualmente me encuentro construyendo mi portafolio profesional mediante proyect
 - Cisco Packet Tracer
 - C#
 - Windows
-- Linux
 
-## Proyectos destacados
+## Proyectos Destacados
 
-### 📊 ETL, Data Warehouse y Power BI
+### ETL, Data Warehouse y Power BI
 Diseño de una solución de Business Intelligence utilizando procesos ETL, modelado dimensional y dashboards interactivos.
 
-➡️ [Ver proyecto](LINK)
+➡️ [Ver proyecto](https://github.com/jbedoyago/data-warehouse-powerbi)
 
-### 🎫 Implementación de Mesa de Servicios con GLPI
+### Implementación de Mesa de Servicios con GLPI
 Diseño de una mesa de servicios con gestión de tickets, SLA, roles y métricas de calidad.
 
-➡️ [Ver proyecto](LINK)
+➡️ [Ver proyecto](https://github.com/jbedoyago/glpi-service-desk)
 
-### 🗄️ Oracle SQL y PL/SQL
+### Oracle SQL y PL/SQL
 Desarrollo de consultas avanzadas, procedimientos almacenados, funciones, triggers y administración básica de Oracle.
 
-➡️ [Ver proyecto](LINK)
+➡️ [Ver proyecto](https://github.com/jbedoyago/oracle-apex-plsql)
 
-### 🌐 Diseño de Red LAN en Cisco Packet Tracer
+### Diseño de Red LAN en Cisco Packet Tracer
 Diseño y simulación de una red académica con IPv4, segmentación y servicios de red.
 
-➡️ [Ver proyecto](LINK)
+➡️ [Ver proyecto](https://github.com/jbedoyago/cisco-network-design)
 
-### 🔐 Análisis de Seguridad y Vulnerabilidades
+### Análisis de Seguridad y Evaluación de Vulnerabilidades
 Threat Modeling con STRIDE y evaluación de vulnerabilidades mediante OWASP ZAP.
 
-➡️ [Ver proyecto](LINK)
+➡️ [Ver proyecto](https://github.com/jbedoyago/security-assessment)
 
 ## Contacto
 
-- LinkedIn: LINK
+- LinkedIn: www.linkedin.com/in/jeison-bedoya-823398265
 - Correo: bedoyajeison91@gmail.com
