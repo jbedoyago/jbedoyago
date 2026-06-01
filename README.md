@@ -1,16 +1,25 @@
-## Hi there 👋
+# Jeison Bedoya
 
-<!--
-**jbedoyago/jbedoyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas próximo a grado.
 
-Here are some ideas to get you started:
+Interesado en análisis de datos, soporte tecnológico y mejora de procesos mediante herramientas digitales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### Datos y Business Intelligence
+
+- Data Warehouse + Power BI
+- Oracle + Power BI
+
+### Infraestructura y Soporte
+
+- Mesa de Servicios TI con GLPI
+- Diseño de Red LAN
+
+### Seguridad
+
+- Evaluación de Vulnerabilidades
+
+### Desarrollo
+
+- Aplicación de Nómina en C#
