@@ -1,4 +1,4 @@
-# Jeison Bedoya
+# Jeikson Bedoya Gomez
 
 Estudiante de Ingeniería de Sistemas próximo a grado.
 
