@@ -1,25 +1,50 @@
-# Jeikson Bedoya Gomez
+# Hola, soy Jeikson Bedoya 👋
 
-Estudiante de Ingeniería de Sistemas próximo a grado.
+Estudiante de Ingeniería de Sistemas recientemente finalizado, interesado en áreas de soporte TI, análisis de datos, bases de datos y tecnologías de infraestructura.
 
-Interesado en análisis de datos, soporte tecnológico y mejora de procesos mediante herramientas digitales.
+Actualmente me encuentro construyendo mi portafolio profesional mediante proyectos académicos y prácticos relacionados con Business Intelligence, Service Desk, Bases de Datos, Redes y Seguridad Informática.
 
-## Proyectos
+## Tecnologías y herramientas
 
-### Datos y Business Intelligence
+- SQL
+- MySQL
+- Oracle Database
+- Power BI
+- Excel
+- GLPI
+- Cisco Packet Tracer
+- C#
+- Windows
+- Linux
 
-- Data Warehouse + Power BI
-- Oracle + Power BI
+## Proyectos destacados
 
-### Infraestructura y Soporte
+### 📊 ETL, Data Warehouse y Power BI
+Diseño de una solución de Business Intelligence utilizando procesos ETL, modelado dimensional y dashboards interactivos.
 
-- Mesa de Servicios TI con GLPI
-- Diseño de Red LAN
+➡️ [Ver proyecto](LINK)
 
-### Seguridad
+### 🎫 Implementación de Mesa de Servicios con GLPI
+Diseño de una mesa de servicios con gestión de tickets, SLA, roles y métricas de calidad.
 
-- Evaluación de Vulnerabilidades
+➡️ [Ver proyecto](LINK)
 
-### Desarrollo
+### 🗄️ Oracle SQL y PL/SQL
+Desarrollo de consultas avanzadas, procedimientos almacenados, funciones, triggers y administración básica de Oracle.
 
-- Aplicación de Nómina en C#
+➡️ [Ver proyecto](LINK)
+
+### 🌐 Diseño de Red LAN en Cisco Packet Tracer
+Diseño y simulación de una red académica con IPv4, segmentación y servicios de red.
+
+➡️ [Ver proyecto](LINK)
+
+### 🔐 Análisis de Seguridad y Vulnerabilidades
+Threat Modeling con STRIDE y evaluación de vulnerabilidades mediante OWASP ZAP.
+
+➡️ [Ver proyecto](LINK)
+
+## Contacto
+
+- LinkedIn: LINK
+- Correo: bedoyajeison91@gmail.com
